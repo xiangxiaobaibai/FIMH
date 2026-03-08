@@ -25,3 +25,5 @@ hnsw.py: The initial integration with bioinformatics workflows. It includes FAST
 hnsw-1.py: An intermediate memory-optimized version. It implements batch processing (batch_size = 1000) to save and load large similarity matrices as .pkl.gz files to bypass RAM limitations.
 
 hnsw-2.py: (Recommended) The final and most optimized version. It replaces standard serialization with h5py to store feature and similarity matrices in .h5 format, offering superior read/write speeds and optimal memory management for large datasets.
+
+Due to GitHub's file size limitations, if you would like to obtain the split subsets of the UNITE dataset and the trained HNSW files, please contact 15651065807@163.com.
