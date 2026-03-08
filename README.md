@@ -1,3 +1,5 @@
+<img width="886" height="612" alt="image" src="https://github.com/user-attachments/assets/23b082bf-aa43-45de-a772-3199779a93f6" />
+
 FIMH: Fungal Identification based on MinHash and HNSW
 Overview
 This repository contains a high-performance pipeline for rapid biological sequence (DNA/RNA) retrieval and taxonomic classification. It addresses the computational bottlenecks of searching through massive FASTA datasets by combining MinHash for sequence feature extraction (dimensionality reduction) and HNSW (Hierarchical Navigable Small World) graphs for fast Approximate Nearest Neighbor (ANN) search.
